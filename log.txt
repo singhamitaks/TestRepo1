@@ -1,0 +1,4 @@
+06-09 16:47:34.705: W/browser(2725): Console: The value "device.width;" for key "width" is invalid, and has been ignored. http://m.rediff.com/:0
+06-09 16:47:34.705: W/browser(2725): Console: The value "0.9999;" for key "initial-scale" was truncated to its numeric prefix. http://m.rediff.com/:0
+06-09 16:47:34.705: W/browser(2725): Console: The value "1.0;" for key "maximum-scale" was truncated to its numeric prefix. http://m.rediff.com/:0
+06-09 16:47:34.705: W/browser(2725): Console: Error parsing a meta element's content: ';' is not a valid key-value pair separator. Please use ',' instead. http://m.rediff.com/:0
